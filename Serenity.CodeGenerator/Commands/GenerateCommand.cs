@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.IO;
 using System.Linq;
- 
+
 namespace Serenity.CodeGenerator
 {
     public class GenerateCommand
